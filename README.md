@@ -51,36 +51,15 @@ __#Module 2:__ Data Analysing using **SQL**.
 
 ## Data Analysis Concepts/Skills Demonstrated 
 
-1.  Descriptive Analysis
-2.  Labelling the data
-3.  Sentiment Analysis
-    - Valance Shifter
-    - Identifying the outliers
-    - Confusion Matix (accuracy measurement)
-4.  Data Trasnformation for Topic modelling
-5.  Topic modelling 
-    - Term document matrix
-    - N-grams
-    - Weighted document-term matrix
-    - Latent Semantic Analysis (LSA)
-
-## Findings & Recommendations 
-
-### Findings
-The study shows the factors for consumer dissatisfaction are:
-1.  **Fittings & Tech issues:** The product is not the kind of product that will fit for everyone, and consumers have higher expectations in terms of technology (Bluetooth) support.
-2.  **Delivery Time:** Even while this might not directly relate to Ptron Intunes, it is having an impact on their clientele.
-3.  **Material Quality:** This is yet another source of dissatisfaction to consider. However, there are situations when offering excellent materials and designs at a low cost is difficult.
+1. __Data cleaning:__ _It involves identifying and removing irrelevant or redundant columns and renaming the columns to make them more descriptive and consistent with the content of the dataset. This improves the quality and usability of the data for analysis and modeling purposes._
+2. __MySQL Database:__ _Utilize the MySQL database to manually create the following tables for the cleaned dataset_
+3. __SQL Queries:__ _It involves writing queries for the dataset using SQL to gain insights from the database. Different concepts of SQL has been used in this process, such as_
+    - aggregating the data, 
+    - grouping the data, 
+    - ordering the data,
+    - joining the tables
+    - sub queries etc
 
 
-The study shows the factors for consumer satisfaction are:
-1.  **Sound Quality:** The majority of good evaluations are due to how satisfied people are with the sound quality (super, impress, fantastic).
-2.  **Lightweight:** This brand of earphone is well-liked by its clientele because of how lightweight they are.
-3.  **Noise Cancellation and Battery life:** Both the noise canceling feature and the lengthy battery life are reasons why many favor this device. The fact that this product has a dedicated noise canceling button makes it worthwhile to purchase.
-4.  **Pricing:** According to the consumer, the product's price is reasonable given its qualities.
-
-### Recommendations
--   The PTron Intunes should resolve the technical problems and create a universally applicable design. 
--   For the benefit of customers seeking a premium appearance, they may also bring another product under this name.
 
 ***
