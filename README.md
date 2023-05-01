@@ -52,7 +52,7 @@ __#Module 2:__ Data Analysing using **SQL**.
 ## Data Analysis Concepts/Skills Demonstrated 
 
 1. __Data cleaning:__ _It involves identifying and removing irrelevant or redundant columns and renaming the columns to make them more descriptive and consistent with the content of the dataset. This improves the quality and usability of the data for analysis and modeling purposes._
-2. __MySQL Database:__ _Utilize the MySQL database to manually create the following tables for the cleaned dataset_
+2. __MySQL Database:__ _Utilize the MySQL database to manually create the tables for the cleaned dataset_
 3. __SQL Queries:__ _It involves writing queries for the dataset using SQL to gain insights from the database. Different concepts of SQL has been used in this process, such as_
     - aggregating the data, 
     - grouping the data, 
