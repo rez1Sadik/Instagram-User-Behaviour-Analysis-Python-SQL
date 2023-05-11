@@ -63,3 +63,4 @@ __#Module 2:__ Data Analysing using **SQL**.
 
 
 ***
+![](Pictures/certificate.jpeg)
